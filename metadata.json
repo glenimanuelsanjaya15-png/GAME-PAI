@@ -1,0 +1,6 @@
+{
+  "name": "Penjaga Bumi Nusantara - Game Edukasi 3D PAI Fase C",
+  "description": "Game edukasi 3D Kurikulum Merdeka PAI Fase C (Kelas V & VI) bertema Tauhid Ekologis dan Pelestarian Lingkungan oleh Bachtiar Imani, S.Pd. - SDN 2 Girimarto Wonogiri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
